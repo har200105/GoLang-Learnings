@@ -104,6 +104,7 @@ func createBook(c *gin.Context) {
 }
 
 func main() {
+	fmt.Println("safar")
 	router := gin.Default()
 	router.GET("/books", getBooks)
 	router.GET("/books/:id", bookById)
