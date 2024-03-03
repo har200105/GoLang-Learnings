@@ -1,0 +1,16 @@
+go 1.20
+
+use (
+	./api
+	./basics
+	./books
+	./channels
+	./concurrency
+	./event-booking
+	./go-jwt
+	./go-rabbitmq
+	./go-rate-limit
+	./go-redis
+	./goFiber
+	./movies
+)
