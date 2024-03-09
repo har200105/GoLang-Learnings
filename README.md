@@ -8,6 +8,8 @@
    - Concurrency.
    - Go Routines.
    - Golang RestAPIs.
+   - JWT
+   - Go Fiber.
    - Channels.
    - Redis.
    - RabbitMQ.
